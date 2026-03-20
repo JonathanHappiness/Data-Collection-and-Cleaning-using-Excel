@@ -7,7 +7,7 @@
 This folder contains the data cleaning report for the Café Sales dataset. The dataset has 10,000 transactional records with information on products, payment methods, and service types. Cleaning ensures the data is accurate and ready for analysis.
 
 ## Contents
-- *Data Cleaning Report* (Data_Cleaning_Report.xlsx)
+- *Data Cleaning Report*
   - Cleaning missing Transaction Dates, Items, Payment Methods, Location
   - Standardizing product names and formatting
   - Calculating missing numerical values
